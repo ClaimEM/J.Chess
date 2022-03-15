@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"Portfolio - Claim"
+		],
+		"java.project.outputPath": "java project"
+	}
+}
